@@ -1,11 +1,48 @@
-<div align="center">
+# Sari Dewi Kusuma — Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A professional portfolio and CV website built with React, TypeScript, Vite, and Tailwind CSS.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Responsive Design**: Optimized for all screen sizes.
+- **Dark/Light Mode**: Customizable theme with persistence.
+- **Interactive UI**: Custom cursor, smooth scroll, and reveal animations.
+- **Modern Tech Stack**: Built with React 19, Vite, and Motion.
+- **Contact Integration**: Direct messaging via WhatsApp and Email.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+- **Frontend**: React 19, TypeScript, Vite
+- **Styling**: Tailwind CSS
+- **Animations**: Motion (framer-motion)
+- **Icons**: Lucide React
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Deployment
+
+This project is configured for easy deployment on **Vercel**. Simply connect your GitHub repository to Vercel and it will automatically detect the Vite configuration.
+
+## License
+
+This project is licensed under the Apache-2.0 License.
